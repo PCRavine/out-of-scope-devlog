@@ -14,6 +14,6 @@ This log was written as the game was made. Every entry says what was tried, what
 | [Day 3, Sat 14 Nov](Day-3.md) | The boss dies, effects, dressing, polish |
 | [Day 4, Sun 15 Nov](Day-4.md) | The playtest, the last fixes, the release |
 
-Play the game: *link added on release*
+Play the game: [*link added on release*](https://pcravine.itch.io/out-of-scope)
 
 ![Out of Scope](Banner_1920x480.png)
